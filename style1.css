@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/43/4/7O3Auf.jpg);
+    background-repeat: no-repeat;
+
+
+}
+.product {
+    font-size: 175px;
+    position: absolute;
+    left: 460px;
+    top: 5px;
+    padding: 8px 204px;
+    
+}
+.product li{
+    color: aqua;
+}
+.image {
+    position: absolute;
+    top: 399px;
+    left: 472px;
+}
+.image2{
+    position: absolute;
+    top: 399px;
+    right: 537px;
+}
+

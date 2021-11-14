@@ -1,0 +1,156 @@
+body{
+    background-image: url("https://wallpapermemory.com/uploads/456/circuit-wallpaper-1080p-89586.jpg");
+    background-repeat: no-repeat;
+    width: auto;
+    height: auto;
+}
+.navbar{
+    list-style: none;
+}
+.left{
+    width: 10px;
+    height: 10px;
+}
+.left img{
+    position: absolute;
+    left: 10px;
+    top: 20px; 
+    color: aliceblue; 
+}
+.mid{
+    display: block;
+    width: 70%;
+    color:lime;
+    border-radius: 50px;
+    padding: '0px 50px';
+    margin: 25px auto;
+}
+.right{
+    display: block;
+    position: absolute;
+    top: 14px;
+    right: 5px;
+}
+.navbar li{
+    display: inline-block;
+    padding: 14px 75px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.navbar li a{
+    text-decoration: none;
+    color:rgb(0, 251, 239);
+    font-size:x-large;
+    padding: 0px 20px;
+    
+}
+.login{
+    position: absolute;
+    right: 302px;
+    bottom: 500px;
+    width: 50px;
+    
+}
+.password{
+    position: absolute;
+    right: 302px;
+    bottom: 460px;
+    width: 100px;
+}
+.password input{
+    border-radius: 1cm;
+}
+.login input{
+ border-radius: 1cm;
+}
+a{
+    text-decoration: none;
+    font-size: larger;
+}
+.btn{
+    margin: 43px 5px;
+    padding: 24px 12px;
+    width: 106px;
+    border-radius: 17px;
+}
+#login{
+    background-color: rgba(16, 116, 141, 0.883);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+#signup{
+    background-color: rgba(204, 23, 23, 0.883);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+#login:hover{
+    background-color: rgb(52, 5, 141);
+    border: 3px solid black;
+}
+#signup:hover{
+    background-color: rgb(4, 0, 251);
+    border: 3px solid black;
+}
+.navbar li a:hover{
+    color:rgb(38, 255, 0) ;
+    border: 4px solid black;
+    border-radius: 4px;
+}
+.btn :hover{
+    cursor: pointer;
+}
+.sk{
+
+    position: absolute;
+    
+
+
+}
+.sk h1{
+    font-size: 120px;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0);
+    position: absolute;
+    left: 300px;
+}
+.container{
+    position: absolute;
+    right: 150px;
+    bottom: 300px;
+    margin: 2px auto;
+    border: rgb(3, 2, 77) 2px solid;
+    border-radius: 1cm;
+    padding: 18px 6px;
+    
+}
+.container h1{
+    font-size: 50px;
+    padding: 5px 29px;
+    color: chartreuse;
+}
+.form-group{
+    padding: 12px 48px;
+}
+.loginbuttons{
+    padding: 27px 112px;
+    width: 50%;
+    display: inline;
+}
+.btn2{
+    padding: 13px 31px;
+    background-color: rgb(1, 167, 1);
+    border-radius: 1cm;
+
+}
+.form-group input{
+    width: 244px;
+    height: 21px;
+    border-radius: 10px;
+}
+#btnlog2:hover{
+    cursor: pointer;
+    color: cornflowerblue;
+    background-color: chartreuse;
+}
+
+    
